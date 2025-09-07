@@ -128,7 +128,7 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ## 👥 Autores
 
-- **Seu Nome** - *Desenvolvimento inicial* - [SeuGitHub](https://github.com/matheuslmarchetti)
+- **Matheus L. Marchetti** - *Desenvolvimento inicial* - [GitHub](https://github.com/matheuslmarchetti)
 
 ## 🎯 Próximos Passos
 
@@ -139,7 +139,7 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ## 📞 Contato
 
-Para dúvidas ou sugestões sobre o projeto, entre em contato através das issues do repositório ou pelo [LinkedIn](www.linkedin.com/in/matheuslunguinhomarchetti)
+Para dúvidas ou sugestões sobre o projeto, entre em contato através das issues do repositório ou pelo [LinkedIn](https://www.linkedin.com/in/matheuslunguinhomarchetti/)
 
 ---
 
