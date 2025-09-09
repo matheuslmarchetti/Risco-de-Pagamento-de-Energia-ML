@@ -1,0 +1,1 @@
+# Funções para limpeza e transformação
